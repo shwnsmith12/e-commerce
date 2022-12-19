@@ -20,8 +20,7 @@ router.get('/', (req, res) => {
         return;
       }
       res.json(dbCategoryData);
-  })
-    .catch(err => {
+  }).catch(err => {
       res.status(500).json(err);
     });
 });
@@ -45,8 +44,7 @@ router.get('/:id', (req, res) => {
       return;
     }
     res.json(dbCategoryData);
-})
-  .catch(err => {
+}).catch(err => {
     res.status(500).json(err);
   });
 });
@@ -55,8 +53,7 @@ router.post('/', (req, res) => {
   // create a new category
   Category.create({
     category_name: req.body.category_name
-  })
-  .then(dbCategoryData => res.json(dbCategoryData))
+  }).then(dbCategoryData => res.json(dbCategoryData))
   .catch(err => {
     res.status(500).json(err);
   });
@@ -75,8 +72,7 @@ router.put('/:id', (req, res) => {
       return;
   }
   res.json(dbCategoryData);
-})
-  .catch(err => {
+}).catch(err => {
     res.status(500).json(err);
   });
 });
@@ -94,8 +90,7 @@ router.delete('/:id', (req, res) => {
             return;
         }
         res.json(dbCategoryData);
-    })
-    .catch(err => {
+    }).catch(err => {
         res.status(500).json(err);
     });
 });
