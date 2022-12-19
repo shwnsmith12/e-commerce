@@ -13,7 +13,7 @@
 This application is a MySQL backend database that can be used for an e-commerce site!
 
 ## Usage
-This application will allow the user to add notes with a title and description, while also saving them in a way that won't delete the notes if they leave or refresh the page.
+This application will allow the user to view inventory, update an existing item, create a new item, and delete current items at the user's request.
 
 ## Built-With
 * Sequelize
