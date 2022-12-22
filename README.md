@@ -25,7 +25,7 @@ This application will allow the user to view inventory, update an existing item,
 * JavaScript
 
 ## Screencast
-https://watch.screencastify.com/v/cCHdhVnS3QwL2OoCmNER
+[https://watch.screencastify.com/v/cCHdhVnS3QwL2OoCmNER](https://drive.google.com/file/d/1OAvoq-o8GYelBg7OQ8kzRUmmjfAgIAfN/view)
 
 ## Repository
 https://github.com/shwnsmith12/e-commerce
