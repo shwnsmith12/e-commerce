@@ -5,7 +5,7 @@
 1. [Description](#Description)
 2. [Usage](#Usage)
 3. [Built-With](#Built-With)
-4. [Screenshot](#Screenshot)
+4. [Screencast](#Screencast)
 5. [Repository](#Repository)
 6. [Contact-Me](#Contact-Me)
 
@@ -24,8 +24,8 @@ This application will allow the user to view inventory, update an existing item,
 * Inquire
 * JavaScript
 
-## Screenshot
-![Note-Taker](https://user-images.githubusercontent.com/110200047/205160633-fa6899d0-1633-4841-9cdc-fd0e590f40be.jpeg)
+## Screencast
+https://watch.screencastify.com/v/cCHdhVnS3QwL2OoCmNER
 
 ## Repository
 https://github.com/shwnsmith12/e-commerce
